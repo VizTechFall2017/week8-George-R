@@ -1,0 +1,55 @@
+<style>
+body {
+font-family: 'Open-Sans', sans-serif;
+font-size: 10px;
+}
+
+#court {
+position: fixed;
+left: 0px;
+right: 0px;
+top: 50px;
+bottom: 0px;
+
+}
+
+.slider {
+
+fill: gold;
+
+}
+
+.axis{
+
+stroke: purple;
+
+}
+.table{
+
+margin-left: 100px;
+margin-top: 50px;
+color: purple;
+
+}
+.title {
+
+color: purple;
+margin-left: 40px;
+
+}
+
+.slider rect {
+fill: darkorange;
+shape-rendering: crispEdges;
+}
+
+.slider line {
+fill: red;
+stroke: red;
+opacity: 1;
+shape-rendering: crispEdges;
+}
+
+
+
+</style>
